@@ -5,7 +5,10 @@ This repository has been created has complement of the manuscript ```Ventrella P
 The repository contains:
 - training dataset used for training and comparing through cross-validation the different algorithms considered and building the computational model
 - test dataset to asses the performance of the model
-- Notebook containing the Python code for computing an overview of the dataset and for training and testing of the proposed computational model
+- Notebook containing the Python code for computing an overview of the dataset and for training and testing of the proposed computational model. The Notebook also contains the code for uploading and using the pre-trained models.
+- clf_binary the pretrained ExtremelyRandomizedTrees model for the binary classification problem.
+- clf_3Classes the pretrained ExtremelyRandomizedTrees model for the 3-classes classification problem.
+- clf_4Classes the pretrained ExtremelyRandomizedTrees model for the 4-classes classification problem.
 
 For details about the conducted study, check the original manuscript.
 
